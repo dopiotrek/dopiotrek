@@ -1,5 +1,5 @@
 Hi, I'm Piotrek 👋
-📍 Frankfurt | 🤖 Builder | 🚀 AI Apps, Physical AI, Robotics
+📍 Frankfurt | 🤖 AI, Physical AI, Robotics
 
 Building and exploring at the intersection of AI and the physical world.
 
@@ -17,13 +17,9 @@ Open source:
 - **Hardware** – Arduino, PCB design, CAD, 3D printing
 - **Military & Defense** – Arduino, PCB design, CAD, 3D printing
 
-## Background
-
-15 years across financial services & tech & aviation. Now channeling that into building products.
-
 ## Philosophy
 
-Engineering is art. I find fulfillment in elegant system architecture and immediate feedback loops. Building things that work in the physical world, not just on screens.
+I still don't know what I am doing but it is (mostly) working.
 
 ## Connect
 
