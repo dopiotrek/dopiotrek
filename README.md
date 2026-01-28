@@ -1,5 +1,7 @@
 Hi, I'm Piotrek 👋
-📍 Frankfurt | 🤖 Builder | 🚀 AI Apps, Physical AI, Robotics | Building at the intersection of AI and the physical world.
+📍 Frankfurt | 🤖 Builder | 🚀 AI Apps, Physical AI, Robotics
+
+Building and exploring at the intersection of AI and the physical world.
 
 Closed source:
 
@@ -25,5 +27,6 @@ Engineering is art. I find fulfillment in elegant system architecture and immedi
 
 ## Connect
 
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/dopiotrek)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/piotrdomek)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dopiotrek)
