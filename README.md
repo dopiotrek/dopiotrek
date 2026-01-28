@@ -8,7 +8,8 @@ Building at the intersection of AI and the physical world.
 🚁 **[dronelist.io](https://dronelist.io)** (closed source) – AI-powered revenue intelligence platform for drone operators.
 
 Current Projects
-🏦 that money app - a personal finance tracker
+
+🏦 **[that money app](https://github.com/dopiotrek/that-money-app)** - a personal finance tracker
 
 ## What I'm Building
 
