@@ -1,26 +1,18 @@
 Hi, I'm Piotrek 👋
-📍 Frankfurt | 🤖 Builder | 🚀 AI Apps, Physical AI, Robotics
+📍 Frankfurt | 🤖 Builder | 🚀 AI Apps, Physical AI, Robotics | Building at the intersection of AI and the physical world.
 
-Sveltekit Svelte
+Closed source:
+🚁 **[dronelist.io](https://dronelist.io)** – AI-powered revenue intelligence platform for drone operators.
 
-Building at the intersection of AI and the physical world.
-
-🚁 **[dronelist.io](https://dronelist.io)** (closed source) – AI-powered revenue intelligence platform for drone operators.
-
-Current Projects
+Open source:
 
 🏦 **[that money app](https://github.com/dopiotrek/that-money-app)** - a personal finance tracker
 
-## What I'm Building
-
-- **dronelist.io** – Helping drone operators run their businesses smarter
-- **Learning frameworks** – Tools for systematic knowledge compression and decomposition
-
 ## What I'm Exploring
-
-- **AI meets physical constraints** – Infrastructure bottlenecks, mineral dependencies, the gap between software-speed expectations and hardware reality
-- **Hardware skills** – Arduino, PCB design, CAD, 3D printing
-- **Robotics** – Where software meets the real world
+- **Physical AI** – Robotics, drones, autonomous systems – where AI meets real-world constraints
+- **AI-powered development** – Agentic coding workflows, rapid prototyping, shipping full apps in days
+- **Hardware** – Arduino, PCB design, CAD, 3D printing
+- **Military & Defense** – Arduino, PCB design, CAD, 3D printing
 
 ## Background
 
