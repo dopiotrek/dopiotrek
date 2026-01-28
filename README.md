@@ -2,6 +2,7 @@ Hi, I'm Piotrek 👋
 📍 Frankfurt | 🤖 Builder | 🚀 AI Apps, Physical AI, Robotics | Building at the intersection of AI and the physical world.
 
 Closed source:
+
 🚁 **[dronelist.io](https://dronelist.io)** – AI-powered revenue intelligence platform for drone operators.
 
 Open source:
