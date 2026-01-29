@@ -10,6 +10,7 @@ Closed source:
 Open source:
 
 🏦 **[that money app](https://github.com/dopiotrek/that-money-app)** - a personal finance tracker
+🔋 **[fpv-drone](https://github.com/dopiotrek/fpv-drone)** - dyi drone build
 
 ## What I'm Exploring
 - **Physical AI** – Robotics, drones, autonomous systems – where AI meets real-world constraints
