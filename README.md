@@ -9,6 +9,9 @@ Closed source:
 
 Open source:
 
+🤖 **[dotclaude](https://github.com/dopiotrek/dotclaude)** - claude code agentic framework
+
+
 🏦 **[that money app](https://github.com/dopiotrek/that-money-app)** - a personal finance tracker
 
 🔋 **[fpv-drone](https://github.com/dopiotrek/fpv-drone)** - dyi drone build
