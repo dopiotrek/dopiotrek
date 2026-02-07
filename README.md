@@ -3,16 +3,15 @@ Hi, I'm Piotrek 👋
 
 Building and exploring at the intersection of AI and the physical world.
 
-Closed source:
+Saas & Apps:
 
 🚁 **[dronelist.io](https://dronelist.io)** – AI-powered revenue intelligence platform for drone operators.
+
+🏦 **[that money app](https://github.com/dopiotrek/that-money-app)** - a personal finance tracker
 
 Open source:
 
 🤖 **[dotclaude](https://github.com/dopiotrek/dotclaude)** - claude code agentic framework
-
-
-🏦 **[that money app](https://github.com/dopiotrek/that-money-app)** - a personal finance tracker
 
 🔋 **[fpv-drone](https://github.com/dopiotrek/fpv-drone)** - dyi drone build
 
