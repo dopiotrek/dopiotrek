@@ -1,29 +1,40 @@
-Hi, I'm Piotrek 👋
-📍 Frankfurt | 🤖 AI, Physical AI, Robotics
+# Hi, I'm Piotrek 👋
 
-Building and exploring at the intersection of AI and the physical world.
+📍 Frankfurt · 🧩 Product Architect · 🤖 Agent Architectures · 🛠️ Builder
 
-Saas & Apps:
+I design and ship AI products — modular agent pipelines with explicit gates, confidence scoring, and fallbacks, not single LLM calls. Drones are where that work meets the physical world.
 
-🚁 **[dronelist.io](https://dronelist.io)** – AI-powered revenue intelligence platform for drone operators.
+## Shipping
 
-🏦 **[that money app](https://github.com/dopiotrek/that-money-app)** - a personal finance tracker
+🚁 **[dronelist.io](https://dronelist.io)** — ops stack for drone pilots and operators
 
-Open source:
+## Open source
 
-🤖 **[dotclaude](https://github.com/dopiotrek/dotclaude)** - claude code agentic framework
+🤖 **[dotclaude](https://github.com/dopiotrek/dotclaude)** — Claude Code agentic framework: hooks, agents, skills, config
+📦 **[starter](https://github.com/dopiotrek/starter)** — SvelteKit + Supabase + Drizzle + Turborepo starter. Tailwind v4 component library, multi-tenant DB scaffold, testing, CI. Bring your own product.
 
-🔋 **[fpv-drone](https://github.com/dopiotrek/fpv-drone)** - dyi drone build
+## Building
 
-## What I'm Exploring
-- **Physical AI** – Robotics, drones, autonomous systems – where AI meets real-world constraints
-- **AI-powered development** – Agentic coding workflows, rapid prototyping, shipping full apps in days
-- **Hardware** – Arduino, PCB design, CAD, 3D printing
-- **Military & Defense** – Arduino, PCB design, CAD, 3D printing
+Private for now:
+
+- **Khira** — AI-powered RFP extraction and comparison
+- **swissCRM** — airline asset management with a lightweight CRM
+- **loom** — moving from search-and-retrieve (RAG) toward ingest-and-synthesize
+- **thatmoneyapp** — personal finance: banking, investments, retirement planning
+
+## Stack
+
+Svelte 5 / SvelteKit · Supabase · Drizzle ORM · Vercel AI SDK · TypeScript · Turborepo
+
+## How I build
+
+- Modular pipelines with explicit gates, confidence scoring, retries, idempotency
+- Cheapest capable model tier first
+- Narrow tools that do one painful job well, over platforms
 
 ## Philosophy
 
-I still don't know what I am doing but it is (mostly) working.
+Birth. Death. Figuring out the in-between.
 
 ## Connect
 
