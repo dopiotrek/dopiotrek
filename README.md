@@ -11,14 +11,15 @@ I design and ship AI products — modular agent pipelines with explicit gates, c
 ## Open source
 
 🤖 **[dotclaude](https://github.com/dopiotrek/dotclaude)** — Claude Code agentic framework: hooks, agents, skills, config
+
 📦 **[starter](https://github.com/dopiotrek/starter)** — SvelteKit + Supabase + Drizzle + Turborepo starter. Tailwind v4 component library, multi-tenant DB scaffold, testing, CI. Bring your own product.
 
 ## Building
 
 Private for now:
 
-- **Khira** — AI-powered RFP extraction and comparison
-- **swissCRM** — airline asset management with a lightweight CRM
+- **khira** — AI-powered RFP extraction and comparison
+- **swissCRM** — airline asset management with a lightweight CRM & fleet management
 - **loom** — moving from search-and-retrieve (RAG) toward ingest-and-synthesize
 - **thatmoneyapp** — personal finance: banking, investments, retirement planning
 
