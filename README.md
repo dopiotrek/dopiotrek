@@ -13,18 +13,6 @@ I build AI-native business software for teams whose core systems were supposed t
 
 More on each: [piotrek.cc/products](https://piotrek.cc/products)
 
-## Experiments
-
-Private for now:
-
-- **khira**: AI-powered RFP extraction and comparison
-- **loom**: moving from search-and-retrieve (RAG) toward ingest-and-synthesize
-
-## Open source
-
-- 🤖 **[dotclaude](https://github.com/dopiotrek/dotclaude)**: Claude Code setup with hooks, agents, skills and config
-- 📦 **[starter](https://github.com/dopiotrek/starter)**: SvelteKit + Supabase + Drizzle + Turborepo starter. Tailwind v4 component library, multi-tenant DB scaffold, testing, CI. Bring your own product.
-
 ## How I build
 
 - Sort out which parts of a process are worth keeping before building anything
